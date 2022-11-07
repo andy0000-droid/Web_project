@@ -1,2 +1,2 @@
 # Web_project
-for Web project
+for school Web project
